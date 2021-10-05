@@ -1,0 +1,26 @@
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\bin\Debug\control_escolar.exe.config
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.csprojResolveAssemblyReference.cache
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.FormBase.resources
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.Properties.Resources.resources
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.csproj.GenerateResource.Cache
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.exe
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.pdb
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.Menu.resources
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.RegistroGeneral.resources
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.RegistroDocente.resources
+c:\users\licenciaturas\documents\visual studio 2013\Projects\control_escolar\control_escolar\obj\Debug\control_escolar.RegistroEstudiante.resources
+D:\control_escolar\control_escolar\bin\Debug\control_escolar.exe.config
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.exe
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.pdb
+D:\control_escolar\control_escolar\bin\Debug\control_escolar.exe
+D:\control_escolar\control_escolar\bin\Debug\control_escolar.pdb
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.FormBase.resources
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.Menu.resources
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.Properties.Resources.resources
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.RegistroDocente.resources
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.RegistroEstudiante.resources
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.RegistroGeneral.resources
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.csproj.GenerateResource.Cache
+D:\control_escolar\control_escolar\obj\Debug\control_escolar.csprojResolveAssemblyReference.cache
